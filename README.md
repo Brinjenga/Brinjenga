@@ -1,4 +1,4 @@
-# Hi, I'm Brian Mbeere (Njenga) 👋
+# Hi 👋
 
 ## 🚀 About Me
 
