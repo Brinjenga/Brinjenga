@@ -22,7 +22,7 @@ My passion lies in building clean, efficient code and collaborating with teams t
 ## 🏢 Professional Experience
 
 ### Data Engineer — *Steelcase Inc*  
-*Apr 2025 – Present*  
+*Apr 2025 – May*  
 - Designed & maintained automated data pipelines with Azure Data Factory and Databricks for marketing and finance analytics  
 - Developed a modular data validation framework in Python leveraging Great Expectations, scaling data quality checks across the enterprise  
 - Integrated Databricks workflow triggers into ADF pipelines (via REST APIs/SDK), streamlining orchestration and reducing manual oversight  
